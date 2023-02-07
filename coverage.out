@@ -1,0 +1,8 @@
+mode: set
+github.com/GolangToolKits/go-level-logger/logger.go:30.28,32.2 1 1
+github.com/GolangToolKits/go-level-logger/logger.go:35.35,36.55 1 1
+github.com/GolangToolKits/go-level-logger/logger.go:36.55,38.3 1 1
+github.com/GolangToolKits/go-level-logger/logger.go:42.36,43.56 1 1
+github.com/GolangToolKits/go-level-logger/logger.go:43.56,45.3 1 1
+github.com/GolangToolKits/go-level-logger/logger.go:49.36,51.2 1 1
+github.com/GolangToolKits/go-level-logger/logger.go:54.41,56.2 1 1
